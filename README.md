@@ -27,3 +27,8 @@ _Total geral de imagens:  3421_
   - valid
     - 0/
     - 1/
+
+
+A pasta _dataset_ possui a separação realizada na execução do artigo. Para gerar uma nova execução, basta deletar as pastas internas e mover as pastas _0_ e _1_ da pasta _backup_.
+
+Todas imagens possuem um prefixo que as identificam como MPOX-positivo quando inicial com "M" e MPOX-negativo quando incial com "NM".
